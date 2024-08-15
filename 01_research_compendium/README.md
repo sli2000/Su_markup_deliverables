@@ -1,5 +1,5 @@
 # Markup languages and reproducible programming in statistics
 
-Deliverables for Markup languages and reproducible programming in statistics (202000010).
+Deliverable 1: Reproducible research compendium.
 
-
+Place the full contents of your research compendium in this directory. See course manual for requirements.

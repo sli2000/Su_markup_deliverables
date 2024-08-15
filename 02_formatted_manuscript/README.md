@@ -1,5 +1,5 @@
 # Markup languages and reproducible programming in statistics
 
-Deliverables for Markup languages and reproducible programming in statistics (202000010).
+Deliverable 2: Formatted markup manuscript.
 
-
+Place the PDF version of your manuscript in this directory. See course manual for requirements.
